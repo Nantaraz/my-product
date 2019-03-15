@@ -1,0 +1,21 @@
+.na {
+    
+    margin-top: 180px;
+    background-color: rgb(221, 221, 221);
+    width: 22%;
+    height: 130px;
+    position: absolute;
+    border-radius: 20px;
+    
+}
+#er {
+    color: red;
+    margin-left: 53px;
+}
+.ka ,.ma {
+    margin-left: 50px;
+    margin-top:10px
+}
+.ni {
+    margin-left: 90px;
+}

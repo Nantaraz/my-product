@@ -1,0 +1,33 @@
+table {
+    border-collapse: collapse;
+    margin-top: 45px;
+}
+td,th,tr
+{
+    border: 1px solid yellowgreen;
+    width: 80px;
+    text-align: center;
+}
+.p {
+  
+    width: 400px;
+    height: 35px;
+    margin-left: 710px;
+    margin-top: 20px;
+    border: 2px solid black;
+}
+.q {
+    margin-left: 850px;
+}
+.na {
+    margin-left:333px;
+}
+.m {
+    text-align: end;
+}
+.x {
+    margin-left: 10px;
+}
+.ma {
+    margin-left: 50px;
+}
